@@ -1,0 +1,571 @@
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\THANH NHÃ\C#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojAssemblyReference.cache
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.cache
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CoreCompileInputs.cache
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CopyComplete
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+D:\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_QuanLy.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.AnalysisServices.dll
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Form1.resources
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+D:\c#\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\stdole.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.MSXML.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojAssemblyReference.cache
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.cache
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CoreCompileInputs.cache
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CopyComplete
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.frm_reportSP.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phuchoi.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportDT.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_saoluu.resources
+D:\laptringC#\Do An\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportnh.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\stdole.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE80.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj80.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.MSXML.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj2.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CS_N12_QLBH_GIAY.exe.config
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportnh.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phuchoi.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportDT.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.frm_reportSP.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_saoluu.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+C:\Users\An Nhien\Downloads\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_hoadon.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\stdole.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE80.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj80.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Newtonsoft.Json.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.MSXML.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.Build.Framework.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\VSLangProj2.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.CS_N12_QLBH_GIAY.exe.config
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_hoadon.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportnh.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phuchoi.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportDT.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.frm_reportSP.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_saoluu.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\stdole.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_hoadon.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportnh.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phuchoi.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportDT.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.frm_reportSP.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_saoluu.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+D:\Đồ án\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe.config
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.exe
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\CS_N12_QLBH_GIAY.pdb
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\EnvDTE.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\stdole.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\Microsoft.MSXML.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csprojResolveAssemblyReference.cache
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_hoadon.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportnh.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phuchoi.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_reportDT.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.frm_reportSP.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_dangnhap.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_giaodienchinh.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_khachhang.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_nhacungcap.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieunhapkho.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_phieuxuatkho.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_quanlynguoidung.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_sanpham.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Frm_saoluu.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.Properties.Resources.resources
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.csproj.GenerateResource.Cache
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.cache
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\RdlCompile.compiled
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.exe
+F:\Projects\Nhom12_QuanLyBanHang(Giay)_5601_S2C6\CS_N12_5601_C2S6_QLBH_GIAY\CS_N12_QLBH_GIAY\obj\Debug\CS_N12_QLBH_GIAY.pdb
